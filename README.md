@@ -15,3 +15,9 @@ src: Contains the core project files including the main script and Jupyter noteb
 models: Stores trained models, including mnist_model2.h5 which is the output from RunTheModel.py.
 
 notebooks: Jupyter notebooks for detailed exploration and explanation of the project's methodology.
+
+## Contact Information
+
+For any queries or collaboration, feel free to contact me:
+
+- Email: [OWD.1@outlook.com]
