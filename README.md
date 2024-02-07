@@ -7,7 +7,11 @@ my project aims to transform any image featuring a number into a format similar 
 
 # Project Structure
 MNIST-Data: Contains sample images from the MNIST dataset for reference and testing.
+
 RawDataForTesting: Includes raw images used to test the algorithm's effectiveness in transforming real-world images into MNIST-compatible format.
+
 src: Contains the core project files including the main script and Jupyter notebooks.
+
 models: Stores trained models, including mnist_model2.h5 which is the output from RunTheModel.py.
+
 notebooks: Jupyter notebooks for detailed exploration and explanation of the project's methodology.
